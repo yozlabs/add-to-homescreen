@@ -1,5 +1,3 @@
-import './styles.css';
-
 // Configure I18n
 const i18n = require('i18n');
 
